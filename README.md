@@ -1,10 +1,9 @@
 ### Hi, I'm Matthew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![17robot's Github Stats](https://github-readme-stats.vercel.app/api?username=17robots&show_icons=true&theme=react)
 
-## About Me
+### About Me
 ```json
 {
-  "_comment": "me.json",
   "name": "Matthew",
   "username": "17robots",
   "age": 21,
@@ -38,22 +37,22 @@
   ]
 }
 ```
-## More Github Stats
+### More Github Stats
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=17robots&theme=react)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17robots&layout=compact&langs_count=10&theme=react)
 <br />
 
-## Repositories
-### Top
+### Repositories
+#### Top
 ![Paranoia Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=17robots&repo=discord-paranoia-bot&theme=react)
 ![Timesheet Management](https://github-readme-stats.vercel.app/api/pin/?username=17robots&repo=timesheetmanagement&theme=react)
 ![Event Booking](https://github-readme-stats.vercel.app/api/pin/?username=17robots&repo=EventBooking&theme=react)
 
-### Current Project
+#### Current Project
 ![Trackr](https://github-readme-stats.vercel.app/api/pin/?username=17robots&repo=trackr_v2&theme=react)
 
-## Connect with me:
+### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="./twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 <br />
