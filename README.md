@@ -1,8 +1,48 @@
 ### Hi, I'm Matthew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![17robot's Github Stats](https://github-readme-stats.vercel.app/api?username=17robots&show_icons=true&theme=gotham)
 
-- 🔭 I’m currently working on - A Task Tracking App
-- 🌱 I’m currently learning - Software Engineering, Angular, Machine Learning
-- 🥅 2020 Goal - Learn Angular and Build An App
+## About Me
+```json
+{
+  "_comment": "me.json",
+  "name": "Matthew",
+  "username": "17robots",
+  "age": 21,
+  "languages": ["C++", "JavaScript", "C#", "Java", "Python"],
+  "techStack": {
+    "frontend": {
+      "js": ["react", "vanilla"],
+      "css": ["vanilla", "bootstrap", "tailwind"]
+    },
+    "backend": {
+      "js": ["express", "graphql"],
+      "misc": ["php", "jsp"]
+    },
+    "desktop": {
+      "native": ["C++", ".NET"],
+      "misc": ["electron"]
+    },
+    "devOps": ["Docker", "Github"],
+    "databases": ["mongo(mongoose)", "MySQL"]
+  },
+  "architecture": ["Microservices", "SPA", "MVC"],
+  "currentFocus": "Web And Desktop Development",
+  "goals": [
+    "Learn Angular",
+    "Learn ASP.NET",
+    "Learn Other Software Architecture"
+  ],
+  "projects": [
+    "Timesheet Management",
+    "Paranoia Discord Bot"
+  ]
+}
+```
+## More Github Stats
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=17robots)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17robots&layout=compact&langs_count=10)
+<br />
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -11,3 +51,5 @@
 
 [twitter]: https://twitter.com/mdray1211
 [linkedin]: https://www.linkedin.com/in/17robots/
+
+
