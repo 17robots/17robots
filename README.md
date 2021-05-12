@@ -1,5 +1,5 @@
 ### Hi, I'm Matthew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![17robot's Github Stats](https://github-readme-stats.vercel.app/api?username=17robots&show_icons=true&theme=gotham)
+![17robot's Github Stats](https://github-readme-stats.vercel.app/api?username=17robots&show_icons=true&theme=react)
 
 ## About Me
 ```json
@@ -39,17 +39,25 @@
 }
 ```
 ## More Github Stats
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=17robots)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=17robots&theme=react)
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17robots&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17robots&layout=compact&langs_count=10&theme=react)
 <br />
 
+## Repositories
+### Top
+![Paranoia Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=17robots&repo=discord-paranoia-bot&theme=react)
+![Timesheet Management](https://github-readme-stats.vercel.app/api/pin/?username=17robots&repo=timesheetmanagement&theme=react)
+![Event Booking](https://github-readme-stats.vercel.app/api/pin/?username=17robots&repo=EventBooking&theme=react)
+
+### Current Project
+![Trackr](https://github-readme-stats.vercel.app/api/pin/?username=17robots&repo=trackr_v2&theme=react)
+
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 <br />
 
 [twitter]: https://twitter.com/mdray1211
 [linkedin]: https://www.linkedin.com/in/17robots/
-
 
