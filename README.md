@@ -54,8 +54,8 @@
 ![Trackr](https://github-readme-stats.vercel.app/api/pin/?username=17robots&repo=trackr_v2&theme=react)
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 <br />
 
 [twitter]: https://twitter.com/mdray1211
