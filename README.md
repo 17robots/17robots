@@ -21,15 +21,16 @@
       "native": ["C++", ".NET"],
       "misc": ["electron"]
     },
-    "devOps": ["Docker", "Github"],
-    "databases": ["mongo(mongoose)", "MySQL"]
+    "devOps": ["Docker", "Github", "Jenkins", "AWS", "Terraform"],
+    "databases": ["Mongo(mongoose)", "MySQL", "PostgreSQL"]
   },
   "architecture": ["Microservices", "SPA", "MVC"],
   "currentFocus": "Web And Desktop Development",
   "goals": [
     "Learn Angular",
     "Learn ASP.NET",
-    "Learn Other Software Architecture"
+    "Learn Clean Software Architecture",
+    "Learn More DevOps Tools"
   ],
   "projects": [
     "Timesheet Management",
