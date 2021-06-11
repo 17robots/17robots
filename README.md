@@ -38,7 +38,6 @@
 }
 ```
 ### More Github Stats
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=17robots&theme=react)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17robots&layout=compact&langs_count=10&theme=react)
 <br />
